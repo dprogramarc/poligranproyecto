@@ -1,0 +1,10 @@
+Tipo4;291293;Nombre1;Apellido1
+Tipo1;336802;Nombre2;Apellido2
+Tipo4;442552;Nombre3;Apellido3
+Tipo3;786160;Nombre4;Apellido4
+Tipo1;174632;Nombre5;Apellido5
+Tipo4;748587;Nombre6;Apellido6
+Tipo4;333619;Nombre7;Apellido7
+Tipo4;861914;Nombre8;Apellido8
+Tipo5;276197;Nombre9;Apellido9
+Tipo2;736;Nombre10;Apellido10
