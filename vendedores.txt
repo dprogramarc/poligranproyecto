@@ -1,0 +1,10 @@
+Nombre1,296729
+Nombre2,865383
+Nombre3,60723
+Nombre4,431644
+Nombre5,558205
+Nombre6,810772
+Nombre7,470397
+Nombre8,515880
+Nombre9,235587
+Nombre10,674761
